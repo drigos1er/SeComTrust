@@ -52,6 +52,42 @@ date_req = input('A quelle date souhaite t\'elle disposer de la ressource  ?')""
 
 
 
+
+def upd_value(res_share, t_rs, o_p, o_u):
+    t_out=[]
+    if res_share == 1 and t_rs == 1:
+        sr_p = rep_value.specrep_current(o_p) + rep_value.delta_upd(o_p)
+        al_p = rep_value.assurlev_current(o_p) + rep_value.gamma_upd(o_p)
+        gr_p = alphai + (weight_share.w_share(o_p) * rep_value.total_specrep(o_p))
+        gr_u = alphai + (weight_share.w_share(o_u) * rep_value.total_specrep(o_u))
+        sd_p = int_assulev.security_domain(al_p)
+    elif res_share == 1 and t_rs == 0.5:
+        sr_p = rep_value.specrep_current(o_p) + (rep_value.delta_upd(o_p) / 2)
+        al_p = rep_value.assurlev_current(o_p) + (rep_value.gamma_upd(o_p) / 2)
+        gr_p = alphai + weight_share.w_share(o_p) * rep_value.total_specrep(o_p)
+        gr_u = alphai + weight_share.w_share(o_u) * rep_value.total_specrep(o_u)
+        sd_p = int_assulev.security_domain(al_p)
+    else:
+        sr_p = rep_value.specrep_current(o_p) - rep_value.delta_upd(o_p)
+        al_p = rep_value.assurlev_current(o_p) - rep_value.gamma_upd(o_p)
+        gr_p = alphai + weight_share.w_share(o_p) * rep_value.total_specrep(o_p)
+        gr_u = alphai + weight_share.w_share(o_u) * rep_value.total_specrep(o_u)
+        sd_p = int_assulev.security_domain(al_p)
+    t_out.append(sr_p)
+    t_out.append(al_p)
+    t_out.append(gr_p)
+    t_out.append(gr_u)
+    t_out.append(sd_p)
+    t_out.append(o_u)
+    t_out.append(o_p)
+
+    return t_out
+
+
+
+
+
+
 def init_tram(o_u, o_p, trust_u, trust_p, res_share, qty_u, qty_p, bm_u, bm_p, date_u, date_p, date_d, av_init, av_p,
               av_d):
     al_u = rep_value.assurlev_current(o_u)
@@ -59,39 +95,32 @@ def init_tram(o_u, o_p, trust_u, trust_p, res_share, qty_u, qty_p, bm_u, bm_p, d
     sd_u=int_assulev.security_domain(al_u)
     sd_p = int_assulev.security_domain(al_p)
     thresh = gov_matrix.der_thresh(sd_p,sd_u)
-    upd=""
     if trust_u >= thresh[1] and trust_p >= thresh[0] and qty_u == qty_p and bm_u == bm_p:
         if (date_d <= date_p <= date_u) or (date_p >= date_u and date_p >= date_d):
             if av_init == 1 and daydate == date_d or av_init == 1 and av_d >= av_p:
                 l_resultshare = gov_matrix.resultpos_share(1, 1)
-                upd=update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
-
-
-
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
             else:
                 l_resultshare = gov_matrix.resultposvio_share(1, 1)
-                upd =update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
-
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
 
         elif date_p <= date_d <= date_u:
             if av_init == 1:
                 l_resultshare = gov_matrix.resultposvio_share(1, 1)
-                upd = update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
-
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
             else:
                 l_resultshare = gov_matrix.resultposvio_share(0, 1)
-                upd = update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
-
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
         else:
             if av_init == 1:
                 l_resultshare = gov_matrix.resultposvio_share(1, 1)
-                upd = update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
-
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
             else:
                 l_resultshare = gov_matrix.resultposvio_share(0, 1)
-                upd = update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
+                update_tvalues.upd_value(l_resultshare[0], l_resultshare[0], o_p, o_u)
 
-    return upd
+
+
 
 
 def direct_tram(l_rpsdesc, l_tram, o_u, des_res, sens_res, qty_res, date_res):
@@ -150,6 +179,9 @@ def direct_tram(l_rpsdesc, l_tram, o_u, des_res, sens_res, qty_res, date_res):
 
 
 
+
+
+
 try:
     lprovider = provider_identification.provider_id(req_info["org"], req_info["res"], req_info["sens"], req_info["qty"],
                                                     req_info["date"])
@@ -168,6 +200,8 @@ else:
 
     else:
         print("AUCUN FOURNISSEUR IDENTIFIE")
+
+
 
 
 

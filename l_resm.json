@@ -1,0 +1,802 @@
+{
+    "res01": {
+        "id": "p_77",
+        "resource": "rp_07",
+        "sensibility": 8,
+        "quantity": 2,
+        "available": 9,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res02": {
+        "id": "p_98",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 13,
+        "available": 10,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res03": {
+        "id": "p_90",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 7,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res04": {
+        "id": "p_93",
+        "resource": "rp_02",
+        "sensibility": 1,
+        "quantity": 10,
+        "available": 5,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res05": {
+        "id": "p_25",
+        "resource": "rp_07",
+        "sensibility": 8,
+        "quantity": 18,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res06": {
+        "id": "p_35",
+        "resource": "rp_06",
+        "sensibility": 1,
+        "quantity": 4,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res07": {
+        "id": "p_66",
+        "resource": "rp_04",
+        "sensibility": 1,
+        "quantity": 18,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res08": {
+        "id": "p_26",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "quantity": 11,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res09": {
+        "id": "p_46",
+        "resource": "rp_08",
+        "sensibility": 8,
+        "quantity": 16,
+        "available": 15,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res10": {
+        "id": "p_95",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 2,
+        "available": 18,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res11": {
+        "id": "p_12",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 13,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res12": {
+        "id": "p_86",
+        "resource": "rp_09",
+        "sensibility": 1,
+        "quantity": 8,
+        "available": 11,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res13": {
+        "id": "p_20",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 8,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res14": {
+        "id": "p_43",
+        "resource": "rp_08",
+        "sensibility": 8,
+        "quantity": 18,
+        "available": 15,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res15": {
+        "id": "p_22",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "quantity": 11,
+        "available": 17,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res16": {
+        "id": "p_82",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 10,
+        "available": 18,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res17": {
+        "id": "p_38",
+        "resource": "rp_03",
+        "sensibility": 8,
+        "quantity": 18,
+        "available": 11,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res18": {
+        "id": "p_94",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "quantity": 20,
+        "available": 18,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res19": {
+        "id": "p_58",
+        "resource": "rp_03",
+        "sensibility": 1,
+        "quantity": 3,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res20": {
+        "id": "p_76",
+        "resource": "rp_02",
+        "sensibility": 1,
+        "quantity": 19,
+        "available": 8,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res21": {
+        "id": "p_53",
+        "resource": "rp_03",
+        "sensibility": 1,
+        "quantity": 7,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res22": {
+        "id": "p_72",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 16,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res23": {
+        "id": "p_23",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "quantity": 5,
+        "available": 2,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res24": {
+        "id": "p_29",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 13,
+        "available": 17,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res25": {
+        "id": "p_59",
+        "resource": "rp_07",
+        "sensibility": 5,
+        "quantity": 8,
+        "available": 7,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res26": {
+        "id": "p_78",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "quantity": 15,
+        "available": 16,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res27": {
+        "id": "p_52",
+        "resource": "rp_02",
+        "sensibility": 1,
+        "quantity": 11,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res28": {
+        "id": "p_88",
+        "resource": "rp_07",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 11,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res29": {
+        "id": "p_44",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "quantity": 1,
+        "available": 9,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res30": {
+        "id": "p_24",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 12,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res31": {
+        "id": "p_67",
+        "resource": "rp_08",
+        "sensibility": 1,
+        "quantity": 2,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res32": {
+        "id": "p_34",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "quantity": 2,
+        "available": 19,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res33": {
+        "id": "p_31",
+        "resource": "rp_07",
+        "sensibility": 1,
+        "quantity": 1,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res34": {
+        "id": "p_47",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "quantity": 13,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res35": {
+        "id": "p_61",
+        "resource": "rp_05",
+        "sensibility": 1,
+        "quantity": 2,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res36": {
+        "id": "p_14",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "quantity": 6,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res37": {
+        "id": "p_84",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "quantity": 2,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res38": {
+        "id": "p_97",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "quantity": 20,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res39": {
+        "id": "p_56",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 8,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res40": {
+        "id": "p_71",
+        "resource": "rp_03",
+        "sensibility": 5,
+        "quantity": 14,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res41": {
+        "id": "p_27",
+        "resource": "rp_02",
+        "sensibility": 1,
+        "quantity": 15,
+        "available": 2,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res42": {
+        "id": "p_68",
+        "resource": "rp_01",
+        "sensibility": 8,
+        "quantity": 7,
+        "available": 9,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res43": {
+        "id": "p_41",
+        "resource": "rp_08",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res44": {
+        "id": "p_69",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 6,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res45": {
+        "id": "p_83",
+        "resource": "rp_10",
+        "sensibility": 1,
+        "quantity": 9,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res46": {
+        "id": "p_79",
+        "resource": "rp_06",
+        "sensibility": 1,
+        "quantity": 1,
+        "available": 16,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res47": {
+        "id": "p_75",
+        "resource": "rp_08",
+        "sensibility": 1,
+        "quantity": 10,
+        "available": 12,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res48": {
+        "id": "p_74",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "quantity": 5,
+        "available": 18,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res49": {
+        "id": "p_19",
+        "resource": "rp_08",
+        "sensibility": 5,
+        "quantity": 3,
+        "available": 11,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res50": {
+        "id": "p_48",
+        "resource": "rp_10",
+        "sensibility": 8,
+        "quantity": 9,
+        "available": 5,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res51": {
+        "id": "p_50",
+        "resource": "rp_07",
+        "sensibility": 5,
+        "quantity": 12,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res52": {
+        "id": "p_21",
+        "resource": "rp_01",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res53": {
+        "id": "p_63",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "quantity": 13,
+        "available": 14,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res54": {
+        "id": "p_87",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "quantity": 20,
+        "available": 7,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res55": {
+        "id": "p_17",
+        "resource": "rp_03",
+        "sensibility": 1,
+        "quantity": 8,
+        "available": 8,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res56": {
+        "id": "p_13",
+        "resource": "rp_09",
+        "sensibility": 8,
+        "quantity": 19,
+        "available": 14,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res57": {
+        "id": "p_30",
+        "resource": "rp_09",
+        "sensibility": 5,
+        "quantity": 19,
+        "available": 14,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res58": {
+        "id": "p_89",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "quantity": 15,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res59": {
+        "id": "p_18",
+        "resource": "rp_09",
+        "sensibility": 5,
+        "quantity": 15,
+        "available": 17,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res60": {
+        "id": "p_81",
+        "resource": "rp_10",
+        "sensibility": 1,
+        "quantity": 20,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res61": {
+        "id": "p_42",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "quantity": 11,
+        "available": 10,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res62": {
+        "id": "p_92",
+        "resource": "rp_09",
+        "sensibility": 5,
+        "quantity": 14,
+        "available": 7,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res63": {
+        "id": "p_45",
+        "resource": "rp_10",
+        "sensibility": 8,
+        "quantity": 5,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res64": {
+        "id": "p_28",
+        "resource": "rp_05",
+        "sensibility": 5,
+        "quantity": 11,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res65": {
+        "id": "p_15",
+        "resource": "rp_01",
+        "sensibility": 5,
+        "quantity": 1,
+        "available": 17,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res66": {
+        "id": "p_11",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "quantity": 4,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res67": {
+        "id": "p_96",
+        "resource": "rp_08",
+        "sensibility": 5,
+        "quantity": 9,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res68": {
+        "id": "p_62",
+        "resource": "rp_07",
+        "sensibility": 8,
+        "quantity": 13,
+        "available": 3,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res69": {
+        "id": "p_60",
+        "resource": "rp_07",
+        "sensibility": 1,
+        "quantity": 15,
+        "available": 4,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res70": {
+        "id": "p_02",
+        "resource": "rp_04",
+        "sensibility": 1,
+        "quantity": 17,
+        "available": 12,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res71": {
+        "id": "p_03",
+        "resource": "rp_08",
+        "sensibility": 5,
+        "quantity": 9,
+        "available": 1,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res72": {
+        "id": "p_04",
+        "resource": "rp_03",
+        "sensibility": 5,
+        "quantity": 7,
+        "available": 9,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res73": {
+        "id": "p_05",
+        "resource": "rp_04",
+        "sensibility": 1,
+        "quantity": 12,
+        "available": 19,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res74": {
+        "id": "p_06",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "quantity": 15,
+        "available": 14,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res75": {
+        "id": "p_07",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "quantity": 6,
+        "available": 7,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res76": {
+        "id": "p_08",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "quantity": 1,
+        "available": 5,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res77": {
+        "id": "p_37",
+        "resource": "rp_03",
+        "sensibility": 1,
+        "quantity": 11,
+        "available": 11,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res78": {
+        "id": "p_09",
+        "resource": "rp_01",
+        "sensibility": 5,
+        "quantity": 11,
+        "available": 20,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    },
+    "res79": {
+        "id": "p_10",
+        "resource": "rp_07",
+        "sensibility": 1,
+        "quantity": 9,
+        "available": 6,
+        "state": 1,
+        "secdom": 1,
+        "typep": 0
+    },
+    "res80": {
+        "id": "p_49",
+        "resource": "rp_07",
+        "sensibility": 5,
+        "quantity": 12,
+        "available": 13,
+        "state": 1,
+        "secdom": 1,
+        "typep": 1
+    }
+}

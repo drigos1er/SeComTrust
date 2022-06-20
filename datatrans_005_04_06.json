@@ -1,0 +1,32 @@
+{
+    "data05": {
+        "nbpg": 354,
+        "nbpm": 138,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+      "data04": {
+        "nbpg": 381,
+        "nbpm": 113,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+  "data03": {
+        "nbpg": 365,
+        "nbpm": 128,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+  "data02": {
+        "nbpg": 348,
+        "nbpm": 145,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+  "data01": {
+        "nbpg": 365,
+        "nbpm": 129,
+        "nborgpg": 22,
+        "nborgpm": 5
+    }
+}

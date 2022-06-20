@@ -1,0 +1,95 @@
+{
+ "data01": {
+        "nbpg": 85,
+        "nbpm": 415,
+        "nborgpg": 5,
+        "nborgpm": 19
+    },
+
+    "data02": {
+        "nbpg": 359,
+        "nbpm": 641,
+        "nborgpg": 19,
+        "nborgpm": 29
+    },
+  "data03": {
+        "nbpg": 466,
+        "nbpm": 34,
+        "nborgpg": 15,
+        "nborgpm": 6
+    },
+   "data04": {
+        "nbpg": 509,
+        "nbpm": 6,
+        "nborgpg": 16,
+        "nborgpm": 2
+    },
+   "data05": {
+        "nbpg": 497,
+        "nbpm": 3,
+        "nborgpg": 15,
+        "nborgpm": 3
+    },
+  "data06": {
+        "nbpg": 496,
+        "nbpm": 4,
+        "nborgpg": 17,
+        "nborgpm": 4
+    },
+   "data07": {
+        "nbpg": 496,
+        "nbpm": 4,
+        "nborgpg": 14,
+        "nborgpm": 2
+    },
+   "data08": {
+        "nbpg": 498,
+        "nbpm": 2,
+        "nborgpg": 16,
+        "nborgpm": 2
+    },
+  "data09": {
+        "nbpg": 497,
+        "nbpm": 3,
+        "nborgpg": 17,
+        "nborgpm": 3
+    },
+   "data10": {
+        "nbpg": 500,
+        "nbpm": 0,
+        "nborgpg": 14,
+        "nborgpm": 0
+    },
+   "data11": {
+        "nbpg": 499,
+        "nbpm": 1,
+        "nborgpg": 14,
+        "nborgpm": 1
+    },
+   "data12": {
+        "nbpg": 499,
+        "nbpm": 1,
+        "nborgpg": 14,
+        "nborgpm": 1
+    },
+
+    "data13": {
+        "nbpg": 497,
+        "nbpm": 3,
+        "nborgpg": 15,
+        "nborgpm": 2
+    },
+
+    "data14": {
+        "nbpg": 497,
+        "nbpm": 3,
+        "nborgpg": 13,
+        "nborgpm": 2
+    },
+   "data15": {
+        "nbpg": 498,
+        "nbpm": 2,
+        "nborgpg": 13,
+        "nborgpm": 2
+    }
+}
