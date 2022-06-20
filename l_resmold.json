@@ -1,0 +1,10 @@
+{"res1": {"id": "o_p1", "resource": "r_p2", "sensibility": 8, "quantity": 10, "available": 5, "state": "1", "secdom": 1},
+  "res2": {"id": "o_p2", "resource": "r_p2", "sensibility": 8, "quantity": 10, "available": 5, "state": "st_rp2", "secdom": 2},
+  "res3": {"id": "o_p3", "resource": "r_p3", "sensibility": "se_rp3", "quantity": "qt_rp3", "available": "qa_rp3", "state": "st_rp3", "secdom": 1},
+  "res4": {"id": "o_p4", "resource": "r_p4", "sensibility": "se_rp4", "quantity": "qt_rp4", "available": "qa_rp4", "state": "st_rp4", "secdom": 1},
+  "res5": {"id": "o_p5", "resource": "r_p5", "sensibility": "se_rp5", "quantity": "qt_rp5", "available": "qa_rp5", "state": "st_rp5", "secdom": 1},
+  "res6": {"id": "o_p6", "resource": "r_p1", "sensibility": "8", "quantity": "3", "available": "7", "state": "st_rp6", "secdom": 2},
+  "res7": {"id": "o_p7", "resource": "r_p1", "sensibility": "8", "quantity": "1", "available": "0", "state": "st_rp7", "secdom": 1},
+  "res8": {"id": "o_p8", "resource": "r_p8", "sensibility": "se_rp8", "quantity": "qt_rp8", "available": "qa_rp8", "state": "st_rp8", "secdom": 1},
+  "res9": {"id": "o_p9", "resource": "r_p1", "sensibility": "8", "quantity": "5", "available": "6", "state": "st_rp9", "secdom": 1},
+  "res10": {"id": "o_p10", "resource": "r_p10", "sensibility": "se_rp10", "quantity": "qt_rp10", "available": "qa_rp10", "state": "st_rp10", "secdom": 1}}

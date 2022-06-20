@@ -1,0 +1,63 @@
+{
+
+    "data01": {
+        "nbpg": 317,
+        "nbpm": 183,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+    "data02": {
+        "nbpg": 393,
+        "nbpm": 107,
+        "nborgpg": 21,
+        "nborgpm": 2
+    },
+     "data03": {
+        "nbpg": 368,
+        "nbpm": 36,
+        "nborgpg": 21,
+        "nborgpm": 2
+    },
+    "data04": {
+        "nbpg": 390,
+        "nbpm": 13,
+        "nborgpg": 20,
+        "nborgpm": 2
+    },
+  "data05": {
+        "nbpg": 386,
+        "nbpm": 15,
+        "nborgpg": 17,
+        "nborgpm": 3
+    },
+  "data06": {
+        "nbpg": 405,
+        "nbpm": 13,
+        "nborgpg": 16,
+        "nborgpm": 4
+    },
+   "data07": {
+        "nbpg": 405,
+        "nbpm": 3,
+        "nborgpg": 20,
+        "nborgpm": 2
+    },
+   "data08": {
+        "nbpg": 402,
+        "nbpm": 13,
+        "nborgpg": 18,
+        "nborgpm": 2
+    },
+  "data09": {
+        "nbpg": 416,
+        "nbpm": 5,
+        "nborgpg": 22,
+        "nborgpm": 3
+    },
+   "data10": {
+        "nbpg": 416,
+        "nbpm": 3,
+        "nborgpg": 17,
+        "nborgpm": 1
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "data01": {
+        "nbpg": 21,
+        "nbpm": 479,
+        "nborgpg": 1,
+        "nborgpm": 23
+    },
+   "data02": {
+        "nbpg": 78,
+        "nbpm": 422,
+        "nborgpg": 7,
+        "nborgpm": 17
+    },
+
+    "data03": {
+        "nbpg": 226,
+        "nbpm": 274,
+        "nborgpg": 8,
+        "nborgpm": 14
+    },
+   "data04": {
+        "nbpg": 401,
+        "nbpm": 99,
+        "nborgpg": 10,
+        "nborgpm": 12
+    },
+   "data05": {
+        "nbpg": 457,
+        "nbpm": 24,
+        "nborgpg": 10,
+        "nborgpm": 7
+    },
+  "data06": {
+        "nbpg": 429,
+        "nbpm": 10,
+        "nborgpg": 11,
+        "nborgpm": 8
+    }
+}

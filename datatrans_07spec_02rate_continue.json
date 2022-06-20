@@ -1,0 +1,126 @@
+{
+"data01": {
+        "nbpg": 317,
+        "nbpm": 183,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+
+
+  "data02": {
+        "nbpg": 393,
+        "nbpm": 107,
+        "nborgpg": 21,
+        "nborgpm": 2
+    },
+  "data03": {
+        "nbpg": 383,
+        "nbpm": 21,
+        "nborgpg": 22,
+        "nborgpm": 2
+    },
+  "data04": {
+        "nbpg": 415,
+        "nbpm": 3,
+        "nborgpg": 20,
+        "nborgpm": 2
+    },
+  "data05": {
+        "nbpg": 410,
+        "nbpm": 0,
+        "nborgpg": 18,
+        "nborgpm": 0
+    },
+   "data06": {
+        "nbpg": 420,
+        "nbpm": 2,
+        "nborgpg": 18,
+        "nborgpm": 2
+    },
+   "data07": {
+        "nbpg": 412,
+        "nbpm": 0,
+        "nborgpg": 20,
+        "nborgpm": 0
+    },
+   "data08": {
+        "nbpg": 415,
+        "nbpm": 0,
+        "nborgpg": 18,
+        "nborgpm": 0
+    },
+   "data09": {
+        "nbpg": 419,
+        "nbpm": 2,
+        "nborgpg": 22,
+        "nborgpm": 2
+    },
+   "data10": {
+        "nbpg": 417,
+        "nbpm": 2,
+        "nborgpg": 17,
+        "nborgpm": 1
+    },
+  "data11": {
+        "nbpg": 439,
+        "nbpm": 0,
+        "nborgpg": 19,
+        "nborgpm": 0
+    },
+  "data12": {
+        "nbpg": 426,
+        "nbpm": 0,
+        "nborgpg": 16,
+        "nborgpm": 0
+    },
+  "data13": {
+        "nbpg": 423,
+        "nbpm": 0,
+        "nborgpg": 17,
+        "nborgpm": 0
+    },
+  "data14": {
+        "nbpg": 417,
+        "nbpm": 1,
+        "nborgpg": 18,
+        "nborgpm": 1
+    },
+  "data15": {
+        "nbpg": 407,
+        "nbpm": 1,
+        "nborgpg": 11,
+        "nborgpm": 1
+    },
+
+"data16": {
+        "nbpg": 423,
+        "nbpm": 0,
+        "nborgpg": 12,
+        "nborgpm": 0
+    },
+  "data17": {
+        "nbpg": 422,
+        "nbpm": 1,
+        "nborgpg": 12,
+        "nborgpm": 1
+    },
+  "data18": {
+        "nbpg": 415,
+        "nbpm": 2,
+        "nborgpg": 11,
+        "nborgpm": 2
+    },
+  "data19": {
+        "nbpg": 424,
+        "nbpm": 0,
+        "nborgpg": 11,
+        "nborgpm": 0
+    },
+  "data20": {
+        "nbpg": 438,
+        "nbpm": 1,
+        "nborgpg": 12,
+        "nborgpm": 1
+    }
+
+}

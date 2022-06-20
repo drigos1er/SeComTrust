@@ -1,0 +1,482 @@
+{
+    "org01": {
+        "id": "p_77",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org02": {
+        "id": "p_98",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org03": {
+        "id": "p_90",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org04": {
+        "id": "p_93",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org05": {
+        "id": "p_25",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org06": {
+        "id": "p_35",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org07": {
+        "id": "p_66",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org08": {
+        "id": "p_26",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org09": {
+        "id": "p_46",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org10": {
+        "id": "p_95",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org11": {
+        "id": "p_12",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org12": {
+        "id": "p_86",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org13": {
+        "id": "p_20",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org14": {
+        "id": "p_43",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org15": {
+        "id": "p_22",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org16": {
+        "id": "p_82",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org17": {
+        "id": "p_38",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org18": {
+        "id": "p_94",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org19": {
+        "id": "p_58",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org20": {
+        "id": "p_76",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org21": {
+        "id": "p_53",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org22": {
+        "id": "p_72",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org23": {
+        "id": "p_23",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org24": {
+        "id": "p_29",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org25": {
+        "id": "p_59",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org26": {
+        "id": "p_78",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org27": {
+        "id": "p_52",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org28": {
+        "id": "p_88",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org29": {
+        "id": "p_44",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org30": {
+        "id": "p_24",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org31": {
+        "id": "p_67",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org32": {
+        "id": "p_34",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org33": {
+        "id": "p_31",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org34": {
+        "id": "p_47",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org35": {
+        "id": "p_61",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org36": {
+        "id": "p_14",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org37": {
+        "id": "p_84",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org38": {
+        "id": "p_97",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org39": {
+        "id": "p_56",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org40": {
+        "id": "p_71",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org41": {
+        "id": "p_27",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org42": {
+        "id": "p_68",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org43": {
+        "id": "p_41",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org44": {
+        "id": "p_69",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org45": {
+        "id": "p_83",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org46": {
+        "id": "p_79",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org47": {
+        "id": "p_75",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org48": {
+        "id": "p_74",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org49": {
+        "id": "p_19",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org50": {
+        "id": "p_48",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org51": {
+        "id": "p_50",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org52": {
+        "id": "p_21",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org53": {
+        "id": "p_63",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org54": {
+        "id": "p_87",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org55": {
+        "id": "p_17",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org56": {
+        "id": "p_13",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org57": {
+        "id": "p_30",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org58": {
+        "id": "p_89",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org59": {
+        "id": "p_18",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org60": {
+        "id": "p_81",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org61": {
+        "id": "p_42",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org62": {
+        "id": "p_92",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org63": {
+        "id": "p_45",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org64": {
+        "id": "p_28",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org65": {
+        "id": "p_15",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org66": {
+        "id": "p_11",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org67": {
+        "id": "p_96",
+        "secdomp": "L",
+        "globalrep": 0.59,
+        "assurlevel": 0
+    },
+    "org68": {
+        "id": "p_62",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org69": {
+        "id": "p_60",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org70": {
+        "id": "p_02",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org71": {
+        "id": "p_03",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org72": {
+        "id": "p_04",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org73": {
+        "id": "p_05",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org74": {
+        "id": "p_06",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org75": {
+        "id": "p_07",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org76": {
+        "id": "p_08",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org77": {
+        "id": "p_37",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org78": {
+        "id": "p_09",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org79": {
+        "id": "p_10",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    },
+    "org80": {
+        "id": "p_49",
+        "secdomp": "L",
+        "globalrep": 0.5,
+        "assurlevel": 0
+    }
+}

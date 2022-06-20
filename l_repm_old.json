@@ -1,0 +1,152 @@
+{
+    "rep01": {
+        "id": "p_68",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "specrep":0
+    },
+    "rep02": {
+        "id": "p_98",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "specrep": 0.4049341374504143
+    },
+    "rep03": {
+        "id": "p_58",
+        "resource": "rp_06",
+        "sensibility": 1,
+        "specrep": 0.3580493746949883
+    },
+    "rep04": {
+        "id": "p_49",
+        "resource": "rp_04",
+        "sensibility": 5,
+        "specrep": 0.13927370519815263
+    },
+    "rep05": {
+        "id": "p_32",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "specrep": 0.6183689966753316
+    },
+    "rep06": {
+        "id": "p_59",
+        "resource": "rp_03",
+        "sensibility": 5,
+        "specrep": 0.9827854760376531
+    },
+    "rep07": {
+        "id": "p_35",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "specrep": 0.09876334465914771
+    },
+    "rep08": {
+        "id": "p_26",
+        "resource": "rp_01",
+        "sensibility": 8,
+        "specrep": 0.47214271545271336
+    },
+    "rep09": {
+        "id": "p_26",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "specrep": 0.4341718354537837
+    },
+    "rep10": {
+        "id": "p_49",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "specrep": 0.47700977655271704
+    },
+    "rep11": {
+        "id": "p_95",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "specrep": 0.06227958802154521
+    },
+    "rep12": {
+        "id": "p_91",
+        "resource": "rp_03",
+        "sensibility": 5,
+        "specrep": 0.09327186435241008
+    },
+    "rep13": {
+        "id": "p_71",
+        "resource": "rp_09",
+        "sensibility": 8,
+        "specrep": 0.6118970848141451
+    },
+    "rep14": {
+        "id": "p_64",
+        "resource": "rp_02",
+        "sensibility": 5,
+        "specrep": 0.7302785763532248
+    },
+    "rep15": {
+        "id": "p_24",
+        "resource": "rp_03",
+        "sensibility": 8,
+        "specrep": 0.9170189691149498
+    },
+    "rep16": {
+        "id": "p_44",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "specrep": 0.8033450541462023
+    },
+    "rep17": {
+        "id": "p_39",
+        "resource": "rp_07",
+        "sensibility": 5,
+        "specrep": 0.44796957143557037
+    },
+    "rep18": {
+        "id": "p_26",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "specrep": 0.8750872873361456
+    },
+    "rep19": {
+        "id": "p_82",
+        "resource": "rp_05",
+        "sensibility": 5,
+        "specrep": 0.3014467921202424
+    },
+    "rep20": {
+        "id": "p_52",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "specrep": 0.5474409113284238
+    },
+    "rep21": {
+        "id": "p_94",
+        "resource": "rp_04",
+        "sensibility": 8,
+        "specrep": 0.9638385459738009
+    },
+    "rep22": {
+        "id": "p_95",
+        "resource": "rp_05",
+        "sensibility": 5,
+        "specrep": 0.4449890262755162
+    },
+    "rep23": {
+        "id": "p_76",
+        "resource": "rp_06",
+        "sensibility": 8,
+        "specrep": 0.5756510141648885
+    },
+    "rep24": {
+        "id": "p_53",
+        "resource": "rp_02",
+        "sensibility": 8,
+        "specrep": 0.18939132855435614
+    },
+    "rep25": {
+        "id": "p_31",
+        "resource": "rp_05",
+        "sensibility": 8,
+        "specrep": 0.6127731798686067
+    }
+}

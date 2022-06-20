@@ -1,0 +1,129 @@
+{
+  "data01": {
+        "nbpg": 316,
+        "nbpm": 183,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+
+    "data02": {
+        "nbpg": 341,
+        "nbpm": 159,
+        "nborgpg": 20,
+        "nborgpm": 5
+    },
+   "data03": {
+        "nbpg": 373,
+        "nbpm": 123,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+  "data04": {
+        "nbpg": 349,
+        "nbpm": 149,
+        "nborgpg": 21,
+        "nborgpm": 5
+    },
+  "data05": {
+        "nbpg": 357,
+        "nbpm": 142,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+  "data06": {
+        "nbpg": 325,
+        "nbpm": 173,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+
+    "data07": {
+        "nbpg": 373,
+        "nbpm": 127,
+        "nborgpg": 20,
+        "nborgpm": 5
+    },
+   "data08": {
+        "nbpg": 355,
+        "nbpm": 144,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+
+    "data09": {
+        "nbpg": 369,
+        "nbpm": 129,
+        "nborgpg": 20,
+        "nborgpm": 5
+    },
+  "data10": {
+        "nbpg": 343,
+        "nbpm": 157,
+        "nborgpg": 20,
+        "nborgpm": 5
+    },
+    "data11": {
+        "nbpg": 377,
+        "nbpm": 122,
+        "nborgpg": 21,
+        "nborgpm": 5
+    },
+  "data12": {
+        "nbpg": 388,
+        "nbpm": 111,
+        "nborgpg": 21,
+        "nborgpm": 5
+    },
+  "data13": {
+        "nbpg": 347,
+        "nbpm": 152,
+        "nborgpg": 18,
+        "nborgpm": 5
+    },
+
+    "data14": {
+        "nbpg": 327,
+        "nbpm": 172,
+        "nborgpg": 21,
+        "nborgpm": 5
+    },
+
+    "data15": {
+        "nbpg": 333,
+        "nbpm": 166,
+        "nborgpg": 22,
+        "nborgpm": 5
+    },
+   "data16": {
+        "nbpg": 362,
+        "nbpm": 136,
+        "nborgpg": 19,
+        "nborgpm": 5
+    },
+   "data17": {
+        "nbpg": 331,
+        "nbpm": 167,
+        "nborgpg": 21,
+        "nborgpm": 5
+    },
+    "data18": {
+        "nbpg": 315,
+        "nbpm": 185,
+        "nborgpg": 20,
+        "nborgpm": 4
+    },
+
+    "data19": {
+        "nbpg": 381,
+        "nbpm": 117,
+        "nborgpg": 19,
+        "nborgpm": 4
+    },
+   "data20": {
+        "nbpg": 349,
+        "nbpm": 150,
+        "nborgpg": 21,
+        "nborgpm": 5
+    }
+}
+

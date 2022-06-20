@@ -1,0 +1,12 @@
+{
+  "org1": {"id": "o_p1", "secdom": "L", "globalrep": 4,"assurlevel": 1},
+  "org2": {"id": "o_p2", "secdom": "L", "globalrep": 6,"assurlevel": 2},
+  "org3": {"id": "o_p3", "secdom": "L", "globalrep": 3,"assurlevel": 1},
+  "org4": {"id": "o_p4", "secdom": "L", "globalrep": 4,"assurlevel": 1},
+  "org5": {"id": "o_p5", "secdom": "L", "globalrep": 5,"assurlevel": 1},
+  "org6": {"id": "o_p6", "secdom": "H", "globalrep": 6,"assurlevel": 4.1},
+  "org7": {"id": "o_p7", "secdom": "L", "globalrep": 7,"assurlevel": 1},
+  "org8": {"id": "o_p8", "secdom": "L", "globalrep": 8,"assurlevel": 1},
+  "org9": {"id": "o_p9", "secdom": "L", "globalrep": 9,"assurlevel": 1},
+  "org10": {"id": "p_10", "secdom": "H", "globalrep": 0,"assurlevel": 7}
+}
